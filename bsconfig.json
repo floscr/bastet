@@ -24,15 +24,10 @@
     "in-source": false
   },
   "suffix": ".bs.js",
-  "bs-dependencies": [
-    "bisect_ppx"
-  ],
   "bs-dev-dependencies": [
+    "bisect_ppx",
     "bs-jsverify",
     "bs-mocha",
     "bs-chai"
   ],
-  "ppx-flags": [
-    "bisect_ppx/ppx"
-  ]
 }
